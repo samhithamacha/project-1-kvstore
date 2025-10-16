@@ -1,0 +1,5 @@
+SET name Samhitha
+GET name
+SET city Austin
+GET city
+EXIT
